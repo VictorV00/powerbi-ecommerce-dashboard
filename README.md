@@ -10,11 +10,11 @@ Este projeto apresenta uma solução de Business Intelligence de ponta a ponta p
 
 ### Página 1: Resumo Gerencial
 *Visão geral dos principais KPIs e tendências de vendas.*
-![Página de Resumo Gerencial](./dashboard_images/resumo_gerencial.png)
+![Página de Resumo Gerencial](dashboard/resumo_gerencial.png)
 
 ### Página 2: Detalhes de Clientes e Produtos
 *Análise detalhada e listas operacionais para aprofundamento.*
-![Página de Detalhes](./dashboard_images/detalhes_clientes_produtos.png)
+![Página de Detalhes](dashboard/detalhes_clientes_produtos.png)
 
 ---
 
@@ -52,8 +52,7 @@ Este dashboard foi construído para responder a perguntas de negócio :
 
 2.  **Banco de Dados:**
     * Crie um novo schema no seu MySQL.
-    * Execute o script `01_criacao_tabelas.sql` que está na pasta `/sql_scripts`.
-    * Execute o script `02_insercao_dados_completa.sql` para popular o banco de dados com todos os registros.
+    * Execute o script `criacao_bd.sql` que está na pasta `/sql_script`.
 
 3.  **Power BI:**
     * Abra o Power BI e conecte-se ao seu banco de dados MySQL local.
