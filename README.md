@@ -1,8 +1,8 @@
 # Dashboard de Análise de Vendas para E-commerce
 
-Este projeto apresenta uma solução de Business Intelligence de ponta a ponta para analisar o desempenho de um e-commerce fictício. Os dados foram modelados em um banco de dados MySQL e, em seguida, extraídos, transformados e visualizados no Power BI para gerar insights acionáveis.
+Este projeto apresenta uma solução de Business Intelligence para analisar o desempenho de um e-commerce fictício. Os dados foram modelados em um banco de dados MySQL e, em seguida, extraídos, transformados e visualizados no Power BI para gerar insights acionáveis.
 
-### [Acesse o Dashboard Interativo Aqui](https://app.powerbi.com/view?r=eyJrIjoiM2M5NDgzZDktMzNmYS00ZmQyLWIyYjUtMWIxYTYxMDAzYjAzIiwidCI6IjhkY2JhYjI4LTA5NzItNDRkYi1iZDE4LTZhYjMzYmVmOTc1NiJ9&pageName=c87b9c555417c4702a3e)
+### [Acesse o Dashboard Aqui](https://app.powerbi.com/view?r=eyJrIjoiM2M5NDgzZDktMzNmYS00ZmQyLWIyYjUtMWIxYTYxMDAzYjAzIiwidCI6IjhkY2JhYjI4LTA5NzItNDRkYi1iZDE4LTZhYjMzYmVmOTc1NiJ9&pageName=c87b9c555417c4702a3e)
 
 ---
 
